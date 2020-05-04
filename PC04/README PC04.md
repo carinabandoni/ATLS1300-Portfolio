@@ -1,7 +1,6 @@
 # ATLS1300
 PC04 Interactive Robot
-This code made a robot that is in the shape of a rectangle and a circle. The robot moves around by pressing the up, down, right, and left keys.
-The goal is the get the rectangle in side the circle.
+This code made a robot that is in the shape of a rectangle and a circle. The robot moves around by pressing the up, down, right, and left keys. The goal is the get the rectangle in side the circle. In this file is also pseudocode of what this looks like.
 
 Getting Started
 All you need to do is download the code into python and get it to run. You do not need to download anything besides the code
